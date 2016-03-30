@@ -197,6 +197,7 @@ This list is meant to be a both a quick guide and reference for further research
 - Quicksort is likely faster in practice.
 - Merge Sort divides the set into the smallest possible groups immediately then reconstructs the incrementally as it sorts the groupings.
 - Quicksort continually divides the set by the average, until the set is recursively sorted.
+- Mergesort uses more memory than quicksort (not in place)
 
 ## Basic Types of Algorithms
 ###**Recursive Algorithms**
